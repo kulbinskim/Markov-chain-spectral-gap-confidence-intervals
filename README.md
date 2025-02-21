@@ -2,7 +2,7 @@
 
 
 
-This is my implementation of an algorithm proposed in the paper Mixing Time Estimation in Reversible Markov Chains from a Single Sample Path by Daniel Hsu, Aryeh Kontorovich, and Csaba Szepesvári. You can check out the paper via this archive [link](https://arxiv.org/abs/1506.02903). The implementation was originally a part of my master's thesis in the Math and CS Department at the University of Wrocław.
+This is my implementation of an algorithm proposed in the paper Mixing Time Estimation in Reversible Markov Chains from a Single Sample Path by Daniel Hsu, Aryeh Kontorovich, and Csaba Szepesvári. You can check out the paper on arXiv via this [link](https://arxiv.org/abs/1506.02903). The implementation was originally a part of my master's thesis in the Math and CS Department at the University of Wrocław.
 
 ## Description of the problem
 
